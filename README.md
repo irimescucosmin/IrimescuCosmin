@@ -5,9 +5,9 @@
 
 
 
-|**Chi sono**|**GH Stats**|
+|**Chi sono**|**Stats**|
 |:---:|:---:|
-| Sono Cosmin Irimescu, un appassionato sviluppatore software </br>con una profonda dedizione per la tecnologia e l'umanità.</br>Ho dedicato anni alla mia carriera nel campo dello sviluppo di applicazioni, coltivando le mie competenze tecniche</br> e la mia curiosità per le scienze sociali e la crescita personale. | ![irimescucosmin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=irimescucosmin&theme=dark&hide_border=true) |
+| Sono Cosmin Irimescu, un appassionato sviluppatore software </br>con una profonda dedizione per la tecnologia e l'umanità.</br>Ho dedicato anni alla mia carriera nel campo dello sviluppo di applicazioni, coltivando le mie competenze tecniche</br> e la mia curiosità per le scienze sociali e la crescita personale. | [![GitHub Streak](https://streak-stats.demolab.com?user=irimescucosmin&theme=github-dark&hide_border=true&locale=it&mode=weekly&sideNums=1E73BE&ring=DFE7F3&border=1E73BE&stroke=1E73BE&fire=1E73BE&currStreakNum=DFE7F3&currStreakLabel=DFE7F3&sideLabels=DFE7F3&dates=1E73BE&excludeDaysLabel=EB5454)](https://git.io/streak-stats) |
 
 ## 🚀 About Me
 
