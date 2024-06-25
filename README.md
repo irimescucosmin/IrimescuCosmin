@@ -17,21 +17,13 @@
 
 ## 🛠 Skills
 
-### Tech Skills
-
-- .NET - 90%
-- Kubernetes & Helm - 85%
-- SQL - 80%
-- Jenkins & CI/CD - 70%
-- Elastic Stack (ELK) - 65%
-
-### Soft Skills
-
-- Creatività - 99%
-- Problem-solving - 95%
-- Teamwork - 90%
-- Leadership - 85%
-- Intelligenza Emotiva - 80%
+|**Tech Skills**|**Soft Skills**|
+|:---:|:---:|
+| .NET - 90% | Creatività - 99% |
+| Kubernetes & Helm - 85% | Problem-solving - 95% |
+| SQL - 80% | Teamwork - 90% |
+| Jenkins & CI/CD - 70% | Leadership - 85% |
+| Elastic Stack (ELK) - 65% | Intelligenza Emotiva - 80% |
 
 ## 📚 Blog
 
