@@ -1,6 +1,13 @@
 # Benvenuto nel mio universo di innovazione! 👋
 
-Sono Cosmin Irimescu, un appassionato sviluppatore software con una profonda dedizione per la tecnologia e l'umanità. Ho dedicato anni alla mia carriera nel campo dello sviluppo di applicazioni, coltivando le mie competenze tecniche e la mia curiosità per le scienze sociali e la crescita personale.
+
+
+
+
+
+|**Chi sono**|**GH Stats**|
+|:---:|:---:|
+| Sono Cosmin Irimescu, un appassionato sviluppatore software </br>con una profonda dedizione per la tecnologia e l'umanità.</br>Ho dedicato anni alla mia carriera nel campo dello sviluppo di applicazioni, coltivando le mie competenze tecniche</br> e la mia curiosità per le scienze sociali e la crescita personale. | ![irimescucosmin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=irimescucosmin&theme=dark&hide_border=true) |
 
 ## 🚀 About Me
 
