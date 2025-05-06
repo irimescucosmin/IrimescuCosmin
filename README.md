@@ -1,56 +1,125 @@
-# 👋 Hi, I'm Cosmin Irimescu
+<h1 align="center">👋 Hi, I'm Cosmin Irimescu</h1>
+<p align="center"><strong>Senior .NET Developer & Software Architect</strong></p>
 
-🎯 **Senior .NET Developer & Software Architect**
+<p align="center">
+  Building simple, modular, and long-lasting systems.<br>
+  Passionate about clean architecture, human-centered design,<br>
+  and how people and technology shape each other.
+</p>
 
-| **About Me** | **Stats** |
-|:------------:|:---------:|
-| Software engineer focused on building simple, modular, and long-lasting systems.</br></br>Experienced in .NET and passionate about clean architecture, human-centered design, and how people and technology shape each other. | [![GitHub Streak](https://streak-stats.demolab.com?user=irimescucosmin&theme=github-dark&hide_border=true&locale=en&mode=weekly&sideNums=1E73BE&ring=DFE7F3&border=1E73BE&stroke=1E73BE&fire=1E73BE&currStreakNum=DFE7F3&currStreakLabel=DFE7F3&sideLabels=DFE7F3&dates=1E73BE&excludeDaysLabel=EB5454)](https://git.io/streak-stats) |
+<p align="center">
+  <a href="https://github.com/irimescucosmin">
+    <img src="https://github-readme-stats.vercel.app/api?username=irimescucosmin&show_icons=true&theme=transparent&hide_border=true&locale=en" width="48%" />
+  </a>
+  <a href="https://github.com/irimescucosmin">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irimescucosmin&layout=compact&theme=transparent&hide_border=true&locale=en" width="48%" />
+  </a>
+</p>
 
-## 🧠 About
+---
 
-- 💼 Senior .NET Developer with architecture experience
-- 🌐 [cosminirimescu.com](https://www.cosminirimescu.com)
-- 📧 hello@cosminirimescu.com
+## 👤 About Me
 
-## 🛠 Skills
+<p>
+  💼 Senior .NET Developer with strong architectural skills<br>
+  🌍 <a href="https://www.cosminirimescu.com">cosminirimescu.com</a><br>
+  📧 hello@cosminirimescu.com
+</p>
 
-| **Tech Skills**            | **Soft Skills**             |
-|:--------------------------:|:---------------------------:|
-| .NET / C#                  | Creativity                  |
-| Kubernetes & Helm          | Problem-solving             |
-| SQL                        | Teamwork                    |
-| Jenkins / CI/CD            | Leadership                  |
+---
 
-## 📚 Latest Blog Posts
+## 🛠 Tech Stack
 
-- [Why FusionCache is so powerful in ASP.NET Core](https://cosminirimescu.com/cosa-rende-fusioncache-cosi-irresistibile-in-asp-net-core/)
-- [Repository Pattern in .NET: when and how to use it](https://cosminirimescu.com/repository-pattern-dotnet/)
-- [API Gateway with YARP in .NET](https://cosminirimescu.com/api-gateway-con-yarp-in-net/)
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-20C997?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
+
+---
+
+## 💡 Soft Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎨_Creativity-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠_Problem_Solving-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤝_Teamwork-2196F3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📣_Leadership-F9A825?style=for-the-badge" />
+</p>
+
+---
+
+## 📝 Latest Blog Posts
+
+<p>
+  <a href="https://cosminirimescu.com/cosa-rende-fusioncache-cosi-irresistibile-in-asp-net-core/">
+    🔹 Why FusionCache is so powerful in ASP.NET Core
+  </a><br>
+  <a href="https://cosminirimescu.com/repository-pattern-dotnet/">
+    🔹 Repository Pattern in .NET: when and how to use it
+  </a><br>
+  <a href="https://cosminirimescu.com/api-gateway-con-yarp-in-net/">
+    🔹 API Gateway with YARP in .NET
+  </a>
+</p>
+
+---
 
 ## 📬 Newsletter
 
-Get exclusive insights, practical tips, and curated content around software development and personal growth — straight to your inbox.
+<p>
+  Stay updated with exclusive insights, practical tips, and curated content<br>
+  on software development, architecture, and personal growth.
+</p>
 
-📩 [Subscribe to the newsletter](https://cosminirimescu.com/)
-
-## 🤝 Let's Work Together
-
-Need technical support, mentoring, or a reliable development partner?  
-Let’s connect and make something meaningful.
-
-💬 [Contact me](https://www.cosminirimescu.com/contact)
+<p>
+  👉 <a href="https://cosminirimescu.com">Subscribe via cosminirimescu.com</a>
+</p>
 
 ---
 
-> 🧩 *"Simplicity is the art of connection." – Cosmin Irimescu*
+## 🤝 Let’s Connect
+
+<p>
+  Looking for mentoring, technical support, or a reliable collaborator?<br>
+  Let’s connect and build something meaningful together.
+</p>
+
+<p>
+  📬 <a href="https://www.cosminirimescu.com/contact">cosminirimescu.com/contact</a>
+</p>
 
 ---
 
-## 🌐 Connect with me
+<blockquote align="center">
+  🧩 <em>"Simplicity is the art of connection." – Cosmin Irimescu</em>
+</blockquote>
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.cosminirimescu.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irimescucosmin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cosminirimescu)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CosminIrimescu)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6361774/irimescu-cosmin)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/cosminirimescu)
+---
+
+## 🌐 Find Me On
+
+<p align="center">
+  <a href="https://medium.cosminirimescu.com/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://github.com/irimescucosmin">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/cosminirimescu">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@CosminIrimescu">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/6361774/irimescu-cosmin">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>
+  <a href="https://buymeacoffee.com/cosminirimescu">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</p>
