@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Cosmin Irimescu</h1>
-<p align="center"><strong>Senior .NET Developer & Software Architect</strong></p>
+<p align="center"><strong>Senior Software Engineer</strong></p>
 
 <p align="center">
   Building simple, modular, and long-lasting systems.<br>
@@ -21,7 +21,7 @@
 ## 👤 About Me
 
 <p>
-  💼 Senior .NET Developer with strong architectural skills<br>
+  💼 Senior Software Engineer with strong architectural skills<br>
   🌍 <a href="https://www.cosminirimescu.com">cosminirimescu.com</a><br>
   📧 hello@cosminirimescu.com
 </p>
