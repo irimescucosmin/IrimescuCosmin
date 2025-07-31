@@ -86,7 +86,7 @@
 ---
 
 <blockquote align="center">
-  🧩 <em>"Simplicity is the art of connection." – Cosmin Irimescu</em>
+  🧩 <em>Think Clearly. Build Simply.</em>
 </blockquote>
 
 ---
