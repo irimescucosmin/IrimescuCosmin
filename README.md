@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hi, I'm Cosmin Irimescu</h1>
-<p align="center"><strong>Senior Software Engineer</strong></p>
+<p align="center"><strong>Software Engineer</strong></p>
 
 <p align="center">
-  Building simple, modular, and long-lasting systems.<br>
-  Passionate about clean architecture, human-centered design,<br>
-  and how people and technology shape each other.
+  Clarity makes better software engineers. <br>
+  Grow your skills by thinking clearly about systems, <br>
+  not just code. Practical, principle-driven software design.
 </p>
 
 <p align="center">
