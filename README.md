@@ -18,16 +18,6 @@
 
 ---
 
-## 👤 About Me
-
-<p>
-  💼 Senior Software Engineer with strong architectural skills<br>
-  🌍 <a href="https://www.cosminirimescu.com">cosminirimescu.com</a><br>
-  📧 hello@cosminirimescu.com
-</p>
-
----
-
 ## 🛠 Tech Stack
 
 <p align="center">
